@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale/en_US/locale.xml
+  *
+  * Copyright (c) 2013-2015 Simon Fraser University Library
+  * Copyright (c) 2000-2015 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the en_US (U.S. English) locale.
+  *
+  -->
+ 
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.generic.anonymIP.name">Anonymized IP Plugin</message>
+	<message key="plugins.generic.anonymIP.description"><![CDATA[This plugin anonymizes the IP addresses i.e. sets their last octet to zero before they are saved in the database. <strong>NOTE:</strong> The variable <strong>session_check_ip</strong> should be sett to <strong>Off</strong> in the file <strong>config.inc.php</strong>]]></message>
+</locale>
