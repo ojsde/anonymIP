@@ -32,6 +32,13 @@ class AnonymIPPlugin extends GenericPlugin {
 	}
 
 	/**
+	 * copydoc PKPPlugin::isSitePlugin()
+	 */
+	function isSitePlugin() {
+		return true;
+	}
+
+	/**
 	 * @copydoc LazyLoadPlugin::register()
 	 */
 	function register($category, $path) {
