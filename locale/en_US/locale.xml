@@ -14,5 +14,5 @@
  
 <locale name="en_US" full_name="U.S. English">
 	<message key="plugins.generic.anonymIP.name">Anonymized IP Plugin</message>
-	<message key="plugins.generic.anonymIP.description"><![CDATA[This plugin anonymizes the IP addresses i.e. sets their last octet to zero before they are saved in the database. <strong>NOTE:</strong> The variable <strong>session_check_ip</strong> should be sett to <strong>Off</strong> in the file <strong>config.inc.php</strong>]]></message>
+	<message key="plugins.generic.anonymIP.description"><![CDATA[This plugin anonymizes the IP addresses i.e. sets their last octet to zero before they are saved in the database. <strong>NOTE:</strong> The variable <strong>session_check_ip</strong> should be set to <strong>Off</strong> in the file <strong>config.inc.php</strong>]]></message>
 </locale>
