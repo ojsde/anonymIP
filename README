@@ -6,6 +6,8 @@
 === Last update: October 02, 2015
 ================================
 
+! This repo has moved to https://github.com/cedis-epublishing/anonymIP
+
 About
 -----
 This plugin anonymizes the IP addresses i.e. sets their last octet to zero before they are saved in the database.
